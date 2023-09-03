@@ -1,1 +1,1 @@
-# alx-files_manager
+This file contains the alx-files manager project
